@@ -1,0 +1,1 @@
+Was created this example to using interfaces with golang! interfaces animals 
